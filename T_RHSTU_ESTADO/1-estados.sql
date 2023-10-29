@@ -1,0 +1,28 @@
+INSERT INTO t_rhstu_estado VALUES (1, 'AC', 'Acre', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (2, 'AL', 'Alagoas', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (3, 'AP', 'Amapá', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (4, 'AM', 'Amazonas', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (5, 'BA', 'Bahia', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (6, 'CE', 'Ceará', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (7, 'DF', 'Distrito Federal', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (8, 'ES', 'Espírito Santo', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (9, 'GO', 'Goiás', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (10, 'MA', 'Maranhão', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (11, 'MT', 'Mato Grosso', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (12, 'MS', 'Mato Grosso do Sul', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (13, 'MG', 'Minas Gerais', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (14, 'PA', 'Pará', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (15, 'PB', 'Paraíba', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (16, 'PR', 'Paraná', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (17, 'PE', 'Pernambuco', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (18, 'PI', 'Piauí', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (19, 'RJ', 'Rio de Janeiro', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (20, 'RN', 'Rio Grande do Norte', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (21, 'RS', 'Rio Grande do Sul', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (22, 'RO', 'Rondônia', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (23, 'RR', 'Roraima', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (24, 'SC', 'Santa Catarina', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (25, 'SP', 'São Paulo', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (26, 'SE', 'Sergipe', SYSDATE, USER);
+INSERT INTO t_rhstu_estado VALUES (27, 'TO', 'Tocantins', SYSDATE, USER);
+COMMIT
